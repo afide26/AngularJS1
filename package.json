@@ -4,7 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "test": "clear"
+    "start": "node index.js"
   },
   "author": "Alan Fidelino",
   "license": "MIT",
